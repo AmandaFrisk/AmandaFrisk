@@ -3,7 +3,7 @@
 
 
 
-👋 Hi, I am a software engineer currently learning JavaScript and enjoying the challenge. 🌱 
+👋 Hi, I am a software engineer currently learning React and enjoying the challenge. 🌱 
 
  I 💞️ collaborating with innovative minds and continuously learning.
 
