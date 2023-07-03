@@ -1,12 +1,11 @@
 
 
 
+  🐍 I am a passionate coder currently learning Python and enjoying the challenge.  
 
- Hi, I am a passionate coder currently learning Python and enjoying the challenge. 🐍 
+🌱 I  like to work with clients and bring technology to life.  
 
-I am a creative problem solver who likes to work with clients and bring technology to life. 🌱 
-
-My super power is being able to break down concepts into simple terms. 💪 
+💪  My super power is being able to break down complex concepts into simple terms. 
 
 
 
